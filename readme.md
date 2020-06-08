@@ -4,7 +4,7 @@ List with 190+ math constants.
 
 ## Preview
 
-```js
+```ts
 /**
  * Antiquity
  */
